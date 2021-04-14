@@ -7,14 +7,14 @@ A CLI tool to set up a template project environment, with a project name generat
 
 Steps:
 
-Generate Project Name
+*Generate Project Name
 
-Create Top Folder
+*Create Top Folder
 
-Set up Venv in Top Folder
+*Set up Venv in Top Folder
 
-Create Code folder
+*Create Code folder
 
-Create GitHub Repo
+*Create GitHub Repo
 
-Create requirements.txt in Code folder
+*Create requirements.txt in Code folder
