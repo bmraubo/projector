@@ -5,6 +5,8 @@ Project Template Generator
 
 A CLI tool to set up a template project environment, with a project name generator.
 
+Lists of nouns and adjectives from https://github.com/hugsy
+
 Steps:
 
 *Generate Project Name
