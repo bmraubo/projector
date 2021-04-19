@@ -15,8 +15,8 @@ Steps:
 
 *Set up Venv in Top Folder
 
-*Create Code folder
+*Create requirements.txt
 
-*Create GitHub Repo
+Future:
 
-*Create requirements.txt in Code folder
+Add Github API support to allow creation of repo and initialisation on device
